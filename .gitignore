@@ -1,0 +1,5 @@
+#ignore pth files
+
+*.pth
+*.csv
+*.npy
